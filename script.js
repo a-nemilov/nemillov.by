@@ -52,7 +52,7 @@ var callback = function(error, data, response) {
 };
 api.getActivityById(id, opts, callback);
 
-log('Я не знаю, зачем ты смотришь JS debug консоль.', "color: green;");
-log('Но, видимо, тебе действительно нужно что-то важное. ', "color: green;");
-log('Такому человеку я готов дать свой номер телефона.', "color: green;");
-log('Записывай. +79163092560', "color: green;");
+// log('Я не знаю, зачем ты смотришь JS debug консоль.', "color: green;");
+// log('Но, видимо, тебе действительно нужно что-то важное. ', "color: green;");
+// log('Такому человеку я готов дать свой номер телефона.', "color: green;");
+// log('Записывай. +3752984****', "color: green;");
